@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "new": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "bst,hpp": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "iomanip": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp"
+    }
+}
